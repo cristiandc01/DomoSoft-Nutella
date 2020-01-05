@@ -1,2 +1,4 @@
 # DomoSoft-Nutella
-DomoSoft Version for Nutella Light
+Versione di DomoSoft Specifica per Nutella Light Mod
+
+info: dcdomotics.altervista.org
